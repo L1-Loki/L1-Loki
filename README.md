@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 
 👋 I'm L1-Loki, a newly graduated programming engineering student, passionate about developing efficient, user-friendly applications and constantly learning to improve myself.
