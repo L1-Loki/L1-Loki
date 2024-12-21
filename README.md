@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am L1-Loki, a newly graduated programming engineering student, passionate about developing efficient, user-friendly applications and constantly learning to improve myself.
+👋 I am L1-Loki, a newly graduated programming engineering student, passionate about developing efficient, user-friendly applications and constantly learning to improve myself.
 
 
 # 💻 Tech Stack:
