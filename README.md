@@ -1,8 +1,10 @@
 <img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
-# 💫 About Me:
-
-👋 I'm L1-Loki, a newly graduated programming engineering student, passionate about developing efficient, user-friendly applications and constantly learning to improve myself.
+# 👋 I'm L1-Loki!
+🎓 Bachelor of Software Engineering (Expected Graduation: [2026])
+🎯 Passionate about developing efficient, user-friendly applications and solving real-world problems.
+💻 Strong foundation in programming, usability-focused development, continuous learning.
+🌟 Aspiring software engineer sharing insights and experiences in tech.
 
 # 💻 Tech Stack:
 
