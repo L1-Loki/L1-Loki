@@ -6,7 +6,7 @@
 💻 Strong foundation in programming, usability-focused development, continuous learning.<br/>
 🌟 Aspiring software engineer sharing insights and experiences in tech.<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=L1-Loki&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=L1-Loki&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 # 💻 Tech Stack:
