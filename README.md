@@ -1,7 +1,7 @@
 <img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # 👋 Hi, I'm L1-Loki!
-🎓 Bachelor of Software Engineering (Expected Graduation: [2026])<br/>
+🎓 Software Engineering (Expected Graduation: [2026])<br/>
 🎯 Passionate about developing efficient, user-friendly applications and solving real-world problems.<br/>
 💻 Strong foundation in programming, usability-focused development, continuous learning.<br/>
 🌟 Aspiring software engineer sharing insights and experiences in tech.<br/>
