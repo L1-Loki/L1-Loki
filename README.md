@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Coding Companion Mascot -->
-  <img src="https://raw.githubusercontent.com/Leticia-maria/Leticia-maria/main/cat-gray.gif" alt="Pixel Cat Companion" width="220" />
+  <img src="cat-coding.svg" alt="Pixel Cat Companion" width="220" />
 
   <br/>
 
