@@ -90,20 +90,15 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/L1-Loki">
-          <img height="185" src="https://github-readme-stats.vercel.app/api?username=L1-Loki&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Loki GitHub Stats" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/L1-Loki">
-          <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1-Loki&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/L1-Loki">
+      <img src="https://github-readme-stats.vercel.app/api?username=L1-Loki&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Loki GitHub Stats" height="190" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/L1-Loki">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1-Loki&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="190" />
+    </a>
+  </p>
 
   <br/>
 
