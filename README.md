@@ -110,7 +110,7 @@
 
   <br/><br/>
 
-  <a href="https://github.com/L1-Loki">
-    <img src="https://komarev.com/ghpvc/?username=L1-Loki&style=flat-square&color=8b5cf6&label=Profile+Views&v=2" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/L1-Loki/">
+    <img src="https://hits.sh/github.com/L1-Loki.svg?label=Profile+Views&color=8b5cf6" alt="Profile Views" />
   </a>
 </div>
