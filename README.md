@@ -25,7 +25,7 @@
 
 <!-- 🥷 Chibi Anime Ninja Dashing Across Screen -->
 <div align="center">
-  <img src="naruto-dash.gif" alt="Chibi Ninja Dashing Across Screen" width="100%" />
+  <img src="naruto-dash.svg" alt="Chibi Ninja Dashing Across Screen" width="100%" />
 </div>
 
 ---
